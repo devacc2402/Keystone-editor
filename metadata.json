@@ -1,0 +1,6 @@
+{
+  "name": "Keystone Motion Studio",
+  "description": "Browser-based 2D motion graphics and keyframe animation studio for Desktop and iPad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
